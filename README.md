@@ -4,7 +4,7 @@ Automatize a organização dos seus arquivos com Python 🚀
 
 Este projeto foi desenvolvido com o objetivo de praticar automação e manipulação de arquivos, criando uma solução simples e eficiente para organizar arquivos automaticamente em pastas separadas por tipo.
 
-🚀 Demonstração do Projeto
+# 🚀 Demonstração do Projeto
 
 O script analisa os arquivos de uma pasta específica (como Downloads), identifica suas extensões e os move automaticamente para pastas correspondentes, como:
 
@@ -18,7 +18,7 @@ O script analisa os arquivos de uma pasta específica (como Downloads), identifi
 
 📦 Outros
 
-🛠️ Tecnologias Utilizadas
+#🛠️ Tecnologias Utilizadas
 
 Python 3
 
@@ -26,7 +26,7 @@ Biblioteca os
 
 Biblioteca shutil
 
-⚙️ Como Funciona
+#⚙️ Como Funciona
 
 O programa acessa uma pasta definida no código.
 
@@ -38,7 +38,7 @@ Cria automaticamente uma pasta com o nome da extensão (caso não exista).
 
 Move o arquivo para sua respectiva pasta.
 
-📦 Instalação e Execução
+#📦 Instalação e Execução
 1️⃣ Clone o repositório
 git clone https://github.com/Guilherme-Firmino/Organizador-de-Arquivos-em-Python.git
 2️⃣ Acesse a pasta do projeto
@@ -55,7 +55,7 @@ Entender melhor manipulação de arquivos
 
 Criar uma solução prática para organização automática
 
-📌 Melhorias Futuras
+#📌 Melhorias Futuras
 
 Interface gráfica
 
@@ -67,9 +67,10 @@ Transformar em aplicação executável (.exe)
 
 Versão com menu interativo
 
-👨‍💻 Autor
+#👨‍💻 Autor
 
 Guilherme Firmino
 
 🔗 GitHub:
 https://github.com/Guilherme-Firmino
+
