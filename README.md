@@ -1,12 +1,22 @@
-📂 Organizador de Arquivos em Python
+# 📂 Organizador de Arquivos em Python
 
-Projeto desenvolvido com o objetivo de automatizar a organização de arquivos em uma pasta específica, separando-os por tipo de extensão.
+Automatize a organização dos seus arquivos com Python 🚀
 
-🚀 Sobre o Projeto
+Este projeto foi desenvolvido com o objetivo de praticar automação e manipulação de arquivos, criando uma solução simples e eficiente para organizar arquivos automaticamente em pastas separadas por tipo.
 
-O Organizador de Arquivos em Python foi criado para facilitar o gerenciamento de arquivos, organizando automaticamente documentos, imagens, vídeos e outros formatos em pastas correspondentes.
+🚀 Demonstração do Projeto
 
-Esse projeto aplica conceitos importantes de manipulação de arquivos e automação utilizando Python.
+O script analisa os arquivos de uma pasta específica (como Downloads), identifica suas extensões e os move automaticamente para pastas correspondentes, como:
+
+📄 Documentos
+
+🖼️ Imagens
+
+🎵 Músicas
+
+🎬 Vídeos
+
+📦 Outros
 
 🛠️ Tecnologias Utilizadas
 
@@ -16,57 +26,50 @@ Biblioteca os
 
 Biblioteca shutil
 
-⚙️ Funcionalidades
+⚙️ Como Funciona
 
-Leitura automática dos arquivos de uma pasta
+O programa acessa uma pasta definida no código.
 
-Identificação da extensão de cada arquivo
+Lê todos os arquivos presentes nela.
 
-Criação automática de pastas (caso não existam)
+Identifica a extensão de cada arquivo.
 
-Movimentação dos arquivos para suas respectivas categorias
+Cria automaticamente uma pasta com o nome da extensão (caso não exista).
 
-📁 Estrutura do Projeto
-Organizador-de-Arquivos-em-Python/
-│
-├── Arquivos.py
-└── README.md
-▶️ Como Executar o Projeto
+Move o arquivo para sua respectiva pasta.
 
-Clone o repositório:
-
+📦 Instalação e Execução
+1️⃣ Clone o repositório
 git clone https://github.com/Guilherme-Firmino/Organizador-de-Arquivos-em-Python.git
-
-Acesse a pasta do projeto:
-
+2️⃣ Acesse a pasta do projeto
 cd Organizador-de-Arquivos-em-Python
-
-Execute o arquivo Python:
-
+3️⃣ Execute o programa
 python Arquivos.py
-🎯 Objetivo
-
-Este projeto foi desenvolvido com foco em:
+🎯 Objetivos do Projeto
 
 Praticar lógica de programação
 
-Aplicar manipulação de arquivos com Python
+Aprimorar o uso de bibliotecas nativas do Python
 
-Automatizar tarefas do dia a dia
+Entender melhor manipulação de arquivos
 
-Evoluir na construção de soluções práticas
+Criar uma solução prática para organização automática
 
-📌 Possíveis Melhorias Futuras
+📌 Melhorias Futuras
 
 Interface gráfica
 
-Filtro personalizado por tipo de arquivo
+Sistema de categorias personalizadas
 
-Log de arquivos organizados
+Relatório de arquivos organizados
 
-Versão executável (.exe)
+Transformar em aplicação executável (.exe)
+
+Versão com menu interativo
 
 👨‍💻 Autor
 
 Guilherme Firmino
-🔗 GitHub: https://github.com/Guilherme-Firmino
+
+🔗 GitHub:
+https://github.com/Guilherme-Firmino
