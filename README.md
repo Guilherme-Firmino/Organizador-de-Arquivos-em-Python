@@ -18,7 +18,7 @@ O script analisa os arquivos de uma pasta específica (como Downloads), identifi
 
 - Outros
 
-* TECNOLOGIAS UTILIZADAS
+TECNOLOGIAS UTILIZADAS
 
 Python 3
 
